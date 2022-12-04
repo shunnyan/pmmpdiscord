@@ -16,7 +16,6 @@ class embedcreater {
             "tts" => false,
             "embeds" => [
                 [
-                    // Set the title for your embed
                     "title" => "Server Status",
                     "timestamp" => $text,
                     "color" => hexdec("000000"),
