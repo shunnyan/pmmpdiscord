@@ -1,4 +1,4 @@
-# disocrdEmbed
+# pmmpの情報をdiscordに送るよ
 PMMP-->Discordでサーバーの情報とかを出すやつ
 
 ## 動作環境
