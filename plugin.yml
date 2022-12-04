@@ -1,0 +1,7 @@
+---
+name: discord
+version: 0.0.1
+main: shunnyan\discord\Main
+api: 4.6.0
+src-namespace-prefix: shunnyan\discord
+...
